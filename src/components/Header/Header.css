@@ -1,0 +1,24 @@
+.navbar {
+  height: 80px;
+  left: 16px;
+  top: 8px;
+  background: #1C2B35;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0 50px;
+}
+.navbar img {
+max-width: 7%;
+}
+.navbar a {
+  font-size: 17px;
+  text-decoration: none;
+  margin-left: 35px;
+  color: #fff;
+  transition: all 0.2s ease-in-out;
+}
+
+.navbar a:hover {
+  color: #fda000;
+}
