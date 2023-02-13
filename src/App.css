@@ -52,3 +52,8 @@
 .input-field {
   margin-bottom: 20px !important;
 }
+
+.MuiFormHelperText-contained {
+  margin: 0 !important;
+  color: red !important;
+}
